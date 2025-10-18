@@ -12,10 +12,7 @@
 
 ---
 
-<video controls width="640" poster="./assets/demonstracao_blink.png">
-    <source src="./assets/demonstracao_blink.mp4" type="video/mp4">
-    Seu navegador não suporta vídeo HTML5. Baixe o arquivo <a href="./assets/demonstracao_blink.mp4">aqui</a>.
-</video>
+[*Led Interno Piscando Video Youtube*](https://youtube.com/shorts/8oJHcPjMlLw?feature=share) 
 
 *Figura 3 — Demonstração em vídeo do código Blink.*
 
@@ -39,10 +36,8 @@ O código exibido na *Figura 2* demonstra as duas funções que foram utilizadas
 
 ---
 
-<video controls width="640" poster="./assets/circuito_led_blink.png">
-    <source src="./assets/demonstracao_blink_externo.mp4" type="video/mp4">
-    Seu navegador não suporta vídeo HTML5. Baixe o arquivo <a href="./assets/demonstracao_blink_externo.mp4">aqui</a>.
-</video>
+[*Led Vermelho Piscando Video Youtube*](https://youtu.be/tt5jh-Ffpww) 
+
 
 *Figura 6 — Demonstração em vídeo do Blink externo funcionando na simulação do Tinkercad.*
 
