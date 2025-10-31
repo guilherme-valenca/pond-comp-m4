@@ -44,9 +44,7 @@ Os LEDs acendem e apagam conforme os tempos definidos no código:
 
 Vídeo mostrando o semáforo em funcionamento:
 
-<iframe src="https://drive.google.com/file/d/1xRX-aaKz2WEcl97C4o-QmsNeICQRFjiU/preview" width="640" height="360" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Link alternativo: [Assistir no Google Drive](https://drive.google.com/file/d/1xRX-aaKz2WEcl97C4o-QmsNeICQRFjiU/view?usp=drive_link)
+Link do Drive: [Assistir no Google Drive](https://drive.google.com/file/d/1xRX-aaKz2WEcl97C4o-QmsNeICQRFjiU/view?usp=drive_link)
 
 Se o vídeo não carregar, verifique se o arquivo está compartilhado publicamente.
 
