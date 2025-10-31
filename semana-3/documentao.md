@@ -46,8 +46,6 @@ Vídeo mostrando o semáforo em funcionamento:
 
 Link do Drive: [Assistir no Google Drive](https://drive.google.com/file/d/1xRX-aaKz2WEcl97C4o-QmsNeICQRFjiU/view?usp=drive_link)
 
-Se o vídeo não carregar, verifique se o arquivo está compartilhado publicamente.
-
 ## Justificativa das Conexões
 
 Cada ligação foi feita de forma a garantir o funcionamento correto e seguro dos componentes:
